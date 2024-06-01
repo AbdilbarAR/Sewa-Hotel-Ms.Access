@@ -1,5 +1,5 @@
 # Aplikasi Sewa Hotel Pantheon 
-![alt text](https://github.com/AbdilbarAR/Website-Absen-Siswa/blob/main/assets/Readme%20assets/Poster.png?raw=true)
+![alt text](https://github.com/AbdilbarAR/Sewa-Hotel-Ms.Access/blob/main/Readme%20assets/Screenshot%202023-12-21%20073430.png?raw=true)
 
 #
 ### Deskripsi
@@ -20,25 +20,39 @@ User
 - Dapat melakukan pemesanan hotel
 
 ### Tampilan
-- Tampilan Login Admin
-  http://localhost/absensiswa/admin
-![alt text](https://github.com/AbdilbarAR/Website-Absen-Siswa/blob/main/assets/Readme%20assets/Screenshot%202024-05-06%20122854.png?raw=true)
+- Tampilan Form Login
+![alt text](https://github.com/AbdilbarAR/Sewa-Hotel-Ms.Access/blob/main/Readme%20assets/Screenshot%202023-12-21%20073430.png?raw=true)
 
-- Tampilan Login Guru & Siswa:
-  http://localhost/absensiswa
-![alt text](https://github.com/AbdilbarAR/Website-Absen-Siswa/blob/main/assets/Readme%20assets/Screenshot%202024-05-06%20121000.png?raw=true)
+- Tampilan Form Dasboard
+![alt text](https://github.com/AbdilbarAR/Sewa-Hotel-Ms.Access/blob/main/Readme%20assets/Screenshot%202023-12-21%20073450.png?raw=true)
 
-- Tampilan Level Admin
-![alt text](https://github.com/AbdilbarAR/Website-Absen-Siswa/blob/main/assets/Readme%20assets/Screenshot%202024-05-06%20123345.png?raw=true)
+- Tampilan Form Input User
+![alt text](https://github.com/AbdilbarAR/Sewa-Hotel-Ms.Access/blob/main/Readme%20assets/Screenshot%202023-12-21%20073736.png?raw=true)
 
-- Tampilan Level Guru
-![alt text](https://github.com/AbdilbarAR/Website-Absen-Siswa/blob/main/assets/Readme%20assets/Screenshot%202024-05-06%20121117.png?raw=true)
-![alt text](https://github.com/AbdilbarAR/Website-Absen-Siswa/blob/main/assets/Readme%20assets/Screenshot%202024-05-06%20121143.png?raw=true)
-![alt text](https://github.com/AbdilbarAR/Website-Absen-Siswa/blob/main/assets/Readme%20assets/Screenshot%202024-05-06%20121416.png?raw=true)
+- Tampilan Form Transaksi
+![alt text](https://github.com/AbdilbarAR/Sewa-Hotel-Ms.Access/blob/main/Readme%20assets/Screenshot%202023-12-21%20073509.png?raw=true)
 
-- Tampilan Level Siswa
-![alt text](https://github.com/AbdilbarAR/Website-Absen-Siswa/blob/main/assets/Readme%20assets/Screenshot%202024-05-06%20121303.png?raw=true)
-![alt text](https://github.com/AbdilbarAR/Website-Absen-Siswa/blob/main/assets/Readme%20assets/Screenshot%202024-05-06%20121326.png?raw=true)
+- Tampilan Form Input Data kamar
+![alt text](https://github.com/AbdilbarAR/Sewa-Hotel-Ms.Access/blob/main/Readme%20assets/Screenshot%202023-12-21%20073524.png?raw=true)
+
+- Tampilan Form Fasilitas
+![alt text](https://github.com/AbdilbarAR/Sewa-Hotel-Ms.Access/blob/main/Readme%20assets/Screenshot%202023-12-21%20073541.png?raw=true)
+
+- Tampilan Form Input Pelanggan
+![alt text](https://github.com/AbdilbarAR/Sewa-Hotel-Ms.Access/blob/main/Readme%20assets/Screenshot%202023-12-21%20073556.png?raw=true)
+
+- Tampilan Form Reservasi
+![alt text](https://github.com/AbdilbarAR/Sewa-Hotel-Ms.Access/blob/main/Readme%20assets/Screenshot%202023-12-21%20073614.png?raw=true)
+
+- Tampilan Form Detail Reservasi
+![alt text](https://github.com/AbdilbarAR/Sewa-Hotel-Ms.Access/blob/main/Readme%20assets/Screenshot%202023-12-21%20073633.png?raw=true)
+
+- Tampilan Form Penilaian Layanan
+![alt text](https://github.com/AbdilbarAR/Sewa-Hotel-Ms.Access/blob/main/Readme%20assets/Screenshot%202023-12-21%20073653.png?raw=true)
+
+- Tampilan Form Laporan
+![alt text](https://github.com/AbdilbarAR/Sewa-Hotel-Ms.Access/blob/main/Readme%20assets/Screenshot%202023-12-21%20073714.png?raw=true)
+
 
 Aplikasi ini dibuat untuk memenuhi tugas mata kuliah Basis Data
 [Program Studi S1 Pendidikan Teknologi Informasi 2022](https://pendidikan-ti.ft.unesa.ac.id) [Fakultas Teknik](https://ft.unesa.ac.id) [Universitas Negeri Surabaya](https://www.unesa.ac.id/)
