@@ -64,4 +64,4 @@ Anggota Kelompok :
 4. KIRANA JUWITA PUTRI RIHADIAN (22050974037)
 
 
-"Terima kasih telah mengunjungi repositori kami! Kami berharap aplikasi sewa hotel ini dapat bermanfaat. Terimakasih"
+"Terima kasih telah mengunjungi repositori ini! Saya berharap aplikasi sewa hotel ini dapat bermanfaat. Terimakasih"
