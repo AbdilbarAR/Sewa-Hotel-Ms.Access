@@ -4,7 +4,7 @@
 #
 ### Deskripsi
 Aplikasi Sewa Hotel menggunakan Ms.Access dimana terdapat Tabel Reservasi, Tabel Penilaian, Tabel Pembayaran, Tabel Pelanggan, Tabel Login, Tabel Kamar, Tabel Fasilitas, Tabel Detail_Reservasi, Tabel Querry Transaksi, Tabel Querry Laporan
-- Terdapat juga Form, Querry beserta Laporan.
+- Terdapat juga Form, Querry, dan Laporan.
 
 ### Level Users
 - Admin
