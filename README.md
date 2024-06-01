@@ -12,7 +12,7 @@ Aplikasi Sewa Hotel menggunakan Ms.Access dimana terdapat Tabel Reservasi, Tabel
 
 ### Fitur
 Admin:
-- Menambahkan data: Kamar, Fasilitas,Pembayaran dll
+- Menambahkan data: Kamar, Fasilitas, Pembayaran dll
 - Menambahkan User
 - (Username: admin ; Password: admin)
 
